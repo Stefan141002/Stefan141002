@@ -1,4 +1,9 @@
-## Hi there 👋
+Hello my name is Stefan and im an undergraduate student at the Faculty of Organizational Sciences.
+
+I'm currently learning all about github and popular languages such as Python and Java.
+Also I'm learning Front-End Web design using Html, CSS, JS and React Framework.
+
+That's all you need to know about me, to reach me DM me :)
 
 <!--
 **Stefan141002/Stefan141002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
